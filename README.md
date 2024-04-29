@@ -29,6 +29,7 @@
 - [Learn algorithms](https://www.boot.dev/certificate/abandonedbalance14/884342fc-5469-47b4-8125-8bfc897428a8) from Boot.dev
 - [Learn data structures](https://www.boot.dev/certificate/abandonedbalance14/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8) from Boot.dev
 - [Learn JavaScript](https://www.boot.dev/certificate/abandonedbalance14/2af5c197-21eb-48b4-bd90-b0d59adb311e) from Boot.dev
+- [Learn HTTP](https://www.boot.dev/certificate/abandonedbalance14/5d804c54-887a-4c1c-b8c7-b6436f3a132e) from Boot.dev
 <!---
 ItzTas/ItzTas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
