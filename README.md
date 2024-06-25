@@ -6,14 +6,6 @@
 - I am brazilian
 - How to reach me [linkedIn](https://www.linkedin.com/in/tales-sabini-4481641a0/)
 
-###### I know the following languages:
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Golang
-
 ###### I have knowlege in spoken languages such as:
 
 - Portuguese(Fluent)
