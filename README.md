@@ -13,7 +13,7 @@
 - French(Advanced)
 - Russian(begginer)
 
-  [![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&card_width=30px)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
+  ![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true)  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=500px)
 
 ![fot](https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
 <!---
