@@ -3,7 +3,6 @@
 - Hi, I’m Tales
 - I began programming in january 20 of 2024
 - I was born in 10/10/2005
-- I am brazilian
 - [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tales-sabini-4481641a0/)
 
 ###### I have knowlege in spoken languages such as:
