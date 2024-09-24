@@ -13,7 +13,7 @@
 - French(Advanced)
 - Russian(begginer)
 
-  ![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&&line_height=20)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px)
+  ![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&line_height=20&hide=c%2b%2b,css,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px)
 
   ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItzTas&theme=react-dark)
 
