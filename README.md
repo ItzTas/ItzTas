@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 <div align="center">
-  <p align="left">🔭 I’m currently working on DevOps Corp</p>
-  <p align="left">👯 I’m looking to collaborate on Open source</p>
-  <p align="left">🌱 I’m currently learning Rust</p>
-  <p align="left">💬 Ask me about Golang</p>
+  <p >🔭 I’m currently working on DevOps Corp</p>
+  <p >👯 I’m looking to collaborate on Open source</p>
+  <p >🌱 I’m currently learning Rust</p>
+  <p >💬 Ask me about Golang</p>
 </div>
 
 <h2 align="center">🌐 Socials: </h2>
