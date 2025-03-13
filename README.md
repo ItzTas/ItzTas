@@ -7,10 +7,14 @@
 
 ## 🌐 Socials:
 
-<p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tx_tales79)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tales-sabini-4481641a0)
-</p>
+<div style="text-align: center;">
+  <a href="https://instagram.com/tx_tales79" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/tales-sabini-4481641a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
@@ -23,7 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px&hide=c%2b%2b,css,html&exclude_repo=dotfiles,fdr-at1" alt="Top Langs" />
 </div>
 
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
+</p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ItzTas&theme=react-dark)
 
