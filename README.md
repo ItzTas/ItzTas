@@ -1,10 +1,16 @@
 # 💫 About Me:
 
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Open source<br>🌱 I’m currently learning Rust<br>💬 Ask me about Golang
+🔭 I’m currently working on DevOps
+👯 I’m looking to collaborate on Open source
+🌱 I’m currently learning Rust
+💬 Ask me about Golang
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tx_tales79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tales-sabini-4481641a0)
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tx_tales79)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tales-sabini-4481641a0)
+</p>
 
 # 💻 Tech Stack:
 
