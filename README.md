@@ -12,7 +12,10 @@
 
 # 📊 GitHub Stats:
 
-![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px&hide=c%2b%2b,css,html&exclude_repo=dotfiles,fdr-at1)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&line_height=20" alt="My stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px&hide=c%2b%2b,css,html&exclude_repo=dotfiles,fdr-at1" alt="Top Langs" />
+</div>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
@@ -26,7 +29,9 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ItzTas&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ItzTas&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</p>
 
 ---
 
