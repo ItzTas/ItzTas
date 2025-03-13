@@ -1,10 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on DevOps<br />
-👯 I’m looking to collaborate on Open source<br />  
-🌱 I’m currently learning Rust<br />
-💬 Ask me about Golang<br />
-<br />
+🔭 I’m currently working on DevOps<br /> 👯 I’m looking to collaborate on Open source<br /> 🌱 I’m currently learning Rust<br /> 💬 Ask me about Golang<br />
 
 <h2 align="center">🌐 Socials: </h2>
 
