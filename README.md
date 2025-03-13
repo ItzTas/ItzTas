@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-<br/> 🔭 I’m currently working on DevOps Corp<br /> 👯 I’m looking to collaborate on Open source<br /> 🌱 I’m currently learning Rust<br /> 💬 Ask me about Golang<br />
+<div align="center">
+  <p align="left">🔭 I’m currently working on DevOps Corp</p>
+  <p align="left">👯 I’m looking to collaborate on Open source</p>
+  <p align="left">🌱 I’m currently learning Rust</p>
+  <p align="left">💬 Ask me about Golang</p>
+</div>
 
 <h2 align="center">🌐 Socials: </h2>
 
