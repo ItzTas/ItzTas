@@ -12,9 +12,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![My stats](https://github-readme-stats.vercel.app/api?username=ItzTas&theme=tokyonight&rank_icon=github&show_icons=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px&hide=c%2b%2b,css,html&exclude_repo=dotfiles,fdr-at1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private_true&layout=compact)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ItzTas&theme=react-dark)
 
 ## 🏆 GitHub Trophies
