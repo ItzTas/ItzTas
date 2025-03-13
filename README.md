@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ItzTas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ItzTas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15)
 
 ### 🔝 Top Contributed Repo
 
