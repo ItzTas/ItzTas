@@ -41,7 +41,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ItzTas&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ItzTas&icon=0&color=0)](https://visitcount.itsvg.in)
