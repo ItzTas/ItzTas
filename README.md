@@ -23,9 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTas&theme=tokyonight&layout=compact&card_width=346px&hide=c%2b%2b,css,html&exclude_repo=dotfiles,fdr-at1" alt="Top Langs" />
 </div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
-</p>
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ItzTas&theme=react-dark)
 
