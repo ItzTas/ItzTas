@@ -28,17 +28,3 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ItzTas&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
 </p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ItzTas&theme=react-dark)
-
-<h2 align="center">🏆 GitHub Trophies </h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItzTas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15ryo-ma&row=3&column=3" />
-</p>
-
-<h3 align="center">🔝 Top Contributed Repo </h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ItzTas&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-</p>
